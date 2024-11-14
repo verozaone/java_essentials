@@ -4,3 +4,7 @@
 # Other ignore rules can go here
 node_modules/
 *.log
+
+# IntelliJ
+.idea
+*.iml
