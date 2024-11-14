@@ -1,5 +1,5 @@
 # Ignore all .class files in all directories
-*.class
+**.class
 
 # Other ignore rules can go here
 node_modules/
