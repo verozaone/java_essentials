@@ -1,0 +1,4 @@
+What is Selenium and Automation Testing?
+Selenium is an open-source automation framework mainly used for testing web applications in different browsers. It consists of a set of tools: Selenium WebDriver, Selenium Grid, and Selenium IDE are the prominent ones. Each of these provides specific functionalities: driving browsers is done through Selenium WebDriver, running parallel executions can be done with Selenium Grid, and record-and-playback functionality is available in Selenium IDE.
+
+That gives great flexibility because it supports a wide range of programming languages, including but not limited to Java, Python, C#, and JavaScript. It also has compatible browsers, including but not limited to Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari. Automation of repetitive test cases cuts the effort of manually doing it over and over again; hence, with Selenium, test cycles have gotten quicker.
